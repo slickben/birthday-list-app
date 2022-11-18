@@ -9,7 +9,7 @@
     "react-calendar": "^2.19.2",
     "react-dom": "^16.8.6",
     "react-input-calendar": "^0.5.4",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
